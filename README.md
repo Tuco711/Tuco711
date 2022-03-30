@@ -1,0 +1,3 @@
+- 👋 Oi, Sou o Arthur Sophiatti
+- 👀 Atualemente apendendo a codar
+- 📕 Cursando Engenharia e Ciencia de Dados na Universidade de Coimbra
