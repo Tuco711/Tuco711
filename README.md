@@ -1,3 +1,14 @@
-- 👋 Oi, Sou o Arthur Sophiatti
-- 👀 Atualemente apendendo a codar
-- 📕 Cursando Engenharia e Ciencia de Dados na Universidade de Coimbra
+## Oi, sou o Arthur Sophiatti. Atualmente estudando Engenharia e ciência de Dados na Universidade de Coimbra
+<div align="center">
+  <a href="https://github.com/Tuco711">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tuco711&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuco711&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  ##
+
+<div> 
+  <a href="https://instagram.com/tuco_sophiatti" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:arthurtucogss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/arthur-sophiatti-546032225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
